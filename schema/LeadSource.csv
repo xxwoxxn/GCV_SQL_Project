@@ -1,0 +1,501 @@
+lead_source_id,lead_source
+LEA00001,Website
+LEA00002,Email
+LEA00003,Website
+LEA00004,Email
+LEA00005,Email
+LEA00006,Inquiry
+LEA00007,Inquiry
+LEA00008,Inquiry
+LEA00009,Social Media
+LEA00010,Cold Call
+LEA00011,Inquiry
+LEA00012,Inquiry
+LEA00013,Cold Call
+LEA00014,Email
+LEA00015,Referral
+LEA00016,Social Media
+LEA00017,Cold Call
+LEA00018,Referral
+LEA00019,Cold Call
+LEA00020,Inquiry
+LEA00021,Email
+LEA00022,Cold Call
+LEA00023,Email
+LEA00024,Website
+LEA00025,Cold Call
+LEA00026,Referral
+LEA00027,Referral
+LEA00028,Cold Call
+LEA00029,Email
+LEA00030,Inquiry
+LEA00031,Inquiry
+LEA00032,Email
+LEA00033,Website
+LEA00034,Inquiry
+LEA00035,Website
+LEA00036,Social Media
+LEA00037,Email
+LEA00038,Email
+LEA00039,Email
+LEA00040,Social Media
+LEA00041,Inquiry
+LEA00042,Website
+LEA00043,Email
+LEA00044,Website
+LEA00045,Website
+LEA00046,Inquiry
+LEA00047,Email
+LEA00048,Social Media
+LEA00049,Website
+LEA00050,Email
+LEA00051,Social Media
+LEA00052,Email
+LEA00053,Inquiry
+LEA00054,Inquiry
+LEA00055,Cold Call
+LEA00056,Inquiry
+LEA00057,Cold Call
+LEA00058,Email
+LEA00059,Referral
+LEA00060,Website
+LEA00061,Referral
+LEA00062,Cold Call
+LEA00063,Website
+LEA00064,Cold Call
+LEA00065,Website
+LEA00066,Website
+LEA00067,Email
+LEA00068,Referral
+LEA00069,Social Media
+LEA00070,Website
+LEA00071,Website
+LEA00072,Email
+LEA00073,Website
+LEA00074,Referral
+LEA00075,Referral
+LEA00076,Cold Call
+LEA00077,Social Media
+LEA00078,Cold Call
+LEA00079,Referral
+LEA00080,Website
+LEA00081,Social Media
+LEA00082,Email
+LEA00083,Social Media
+LEA00084,Website
+LEA00085,Email
+LEA00086,Social Media
+LEA00087,Referral
+LEA00088,Social Media
+LEA00089,Email
+LEA00090,Website
+LEA00091,Social Media
+LEA00092,Website
+LEA00093,Website
+LEA00094,Social Media
+LEA00095,Inquiry
+LEA00096,Cold Call
+LEA00097,Email
+LEA00098,Cold Call
+LEA00099,Cold Call
+LEA00100,Email
+LEA00101,Social Media
+LEA00102,Website
+LEA00103,Email
+LEA00104,Email
+LEA00105,Cold Call
+LEA00106,Cold Call
+LEA00107,Inquiry
+LEA00108,Email
+LEA00109,Website
+LEA00110,Referral
+LEA00111,Social Media
+LEA00112,Website
+LEA00113,Inquiry
+LEA00114,Email
+LEA00115,Email
+LEA00116,Social Media
+LEA00117,Email
+LEA00118,Inquiry
+LEA00119,Website
+LEA00120,Social Media
+LEA00121,Inquiry
+LEA00122,Cold Call
+LEA00123,Referral
+LEA00124,Inquiry
+LEA00125,Email
+LEA00126,Cold Call
+LEA00127,Referral
+LEA00128,Social Media
+LEA00129,Cold Call
+LEA00130,Cold Call
+LEA00131,Social Media
+LEA00132,Inquiry
+LEA00133,Inquiry
+LEA00134,Email
+LEA00135,Cold Call
+LEA00136,Inquiry
+LEA00137,Website
+LEA00138,Referral
+LEA00139,Referral
+LEA00140,Email
+LEA00141,Referral
+LEA00142,Cold Call
+LEA00143,Website
+LEA00144,Referral
+LEA00145,Inquiry
+LEA00146,Social Media
+LEA00147,Email
+LEA00148,Inquiry
+LEA00149,Social Media
+LEA00150,Social Media
+LEA00151,Cold Call
+LEA00152,Referral
+LEA00153,Cold Call
+LEA00154,Social Media
+LEA00155,Referral
+LEA00156,Email
+LEA00157,Cold Call
+LEA00158,Referral
+LEA00159,Referral
+LEA00160,Cold Call
+LEA00161,Cold Call
+LEA00162,Inquiry
+LEA00163,Inquiry
+LEA00164,Social Media
+LEA00165,Referral
+LEA00166,Email
+LEA00167,Inquiry
+LEA00168,Social Media
+LEA00169,Inquiry
+LEA00170,Referral
+LEA00171,Website
+LEA00172,Referral
+LEA00173,Referral
+LEA00174,Inquiry
+LEA00175,Referral
+LEA00176,Social Media
+LEA00177,Social Media
+LEA00178,Email
+LEA00179,Inquiry
+LEA00180,Referral
+LEA00181,Email
+LEA00182,Cold Call
+LEA00183,Website
+LEA00184,Website
+LEA00185,Email
+LEA00186,Referral
+LEA00187,Inquiry
+LEA00188,Email
+LEA00189,Email
+LEA00190,Referral
+LEA00191,Referral
+LEA00192,Email
+LEA00193,Social Media
+LEA00194,Inquiry
+LEA00195,Website
+LEA00196,Email
+LEA00197,Referral
+LEA00198,Inquiry
+LEA00199,Referral
+LEA00200,Cold Call
+LEA00201,Social Media
+LEA00202,Cold Call
+LEA00203,Social Media
+LEA00204,Referral
+LEA00205,Cold Call
+LEA00206,Social Media
+LEA00207,Inquiry
+LEA00208,Website
+LEA00209,Website
+LEA00210,Inquiry
+LEA00211,Website
+LEA00212,Inquiry
+LEA00213,Cold Call
+LEA00214,Referral
+LEA00215,Email
+LEA00216,Cold Call
+LEA00217,Website
+LEA00218,Referral
+LEA00219,Website
+LEA00220,Cold Call
+LEA00221,Social Media
+LEA00222,Cold Call
+LEA00223,Cold Call
+LEA00224,Cold Call
+LEA00225,Website
+LEA00226,Referral
+LEA00227,Website
+LEA00228,Cold Call
+LEA00229,Cold Call
+LEA00230,Email
+LEA00231,Social Media
+LEA00232,Inquiry
+LEA00233,Website
+LEA00234,Social Media
+LEA00235,Website
+LEA00236,Cold Call
+LEA00237,Email
+LEA00238,Website
+LEA00239,Email
+LEA00240,Inquiry
+LEA00241,Website
+LEA00242,Social Media
+LEA00243,Social Media
+LEA00244,Inquiry
+LEA00245,Cold Call
+LEA00246,Inquiry
+LEA00247,Inquiry
+LEA00248,Inquiry
+LEA00249,Inquiry
+LEA00250,Inquiry
+LEA00251,Website
+LEA00252,Referral
+LEA00253,Inquiry
+LEA00254,Email
+LEA00255,Website
+LEA00256,Website
+LEA00257,Cold Call
+LEA00258,Cold Call
+LEA00259,Social Media
+LEA00260,Social Media
+LEA00261,Email
+LEA00262,Website
+LEA00263,Social Media
+LEA00264,Email
+LEA00265,Referral
+LEA00266,Referral
+LEA00267,Website
+LEA00268,Inquiry
+LEA00269,Cold Call
+LEA00270,Social Media
+LEA00271,Inquiry
+LEA00272,Inquiry
+LEA00273,Website
+LEA00274,Referral
+LEA00275,Social Media
+LEA00276,Referral
+LEA00277,Social Media
+LEA00278,Social Media
+LEA00279,Cold Call
+LEA00280,Website
+LEA00281,Social Media
+LEA00282,Referral
+LEA00283,Social Media
+LEA00284,Referral
+LEA00285,Cold Call
+LEA00286,Social Media
+LEA00287,Email
+LEA00288,Social Media
+LEA00289,Website
+LEA00290,Social Media
+LEA00291,Social Media
+LEA00292,Referral
+LEA00293,Inquiry
+LEA00294,Inquiry
+LEA00295,Referral
+LEA00296,Social Media
+LEA00297,Website
+LEA00298,Inquiry
+LEA00299,Cold Call
+LEA00300,Website
+LEA00301,Cold Call
+LEA00302,Social Media
+LEA00303,Referral
+LEA00304,Inquiry
+LEA00305,Inquiry
+LEA00306,Website
+LEA00307,Social Media
+LEA00308,Social Media
+LEA00309,Referral
+LEA00310,Referral
+LEA00311,Referral
+LEA00312,Email
+LEA00313,Inquiry
+LEA00314,Referral
+LEA00315,Email
+LEA00316,Referral
+LEA00317,Social Media
+LEA00318,Inquiry
+LEA00319,Social Media
+LEA00320,Email
+LEA00321,Inquiry
+LEA00322,Website
+LEA00323,Website
+LEA00324,Social Media
+LEA00325,Social Media
+LEA00326,Referral
+LEA00327,Email
+LEA00328,Email
+LEA00329,Referral
+LEA00330,Cold Call
+LEA00331,Website
+LEA00332,Referral
+LEA00333,Referral
+LEA00334,Cold Call
+LEA00335,Cold Call
+LEA00336,Cold Call
+LEA00337,Social Media
+LEA00338,Social Media
+LEA00339,Email
+LEA00340,Inquiry
+LEA00341,Inquiry
+LEA00342,Referral
+LEA00343,Cold Call
+LEA00344,Email
+LEA00345,Inquiry
+LEA00346,Email
+LEA00347,Website
+LEA00348,Social Media
+LEA00349,Referral
+LEA00350,Social Media
+LEA00351,Referral
+LEA00352,Cold Call
+LEA00353,Social Media
+LEA00354,Cold Call
+LEA00355,Email
+LEA00356,Social Media
+LEA00357,Social Media
+LEA00358,Inquiry
+LEA00359,Referral
+LEA00360,Website
+LEA00361,Cold Call
+LEA00362,Email
+LEA00363,Email
+LEA00364,Social Media
+LEA00365,Cold Call
+LEA00366,Email
+LEA00367,Cold Call
+LEA00368,Cold Call
+LEA00369,Inquiry
+LEA00370,Referral
+LEA00371,Referral
+LEA00372,Cold Call
+LEA00373,Referral
+LEA00374,Social Media
+LEA00375,Inquiry
+LEA00376,Inquiry
+LEA00377,Email
+LEA00378,Email
+LEA00379,Social Media
+LEA00380,Cold Call
+LEA00381,Email
+LEA00382,Website
+LEA00383,Email
+LEA00384,Inquiry
+LEA00385,Email
+LEA00386,Cold Call
+LEA00387,Social Media
+LEA00388,Cold Call
+LEA00389,Social Media
+LEA00390,Website
+LEA00391,Social Media
+LEA00392,Referral
+LEA00393,Referral
+LEA00394,Social Media
+LEA00395,Cold Call
+LEA00396,Social Media
+LEA00397,Social Media
+LEA00398,Social Media
+LEA00399,Referral
+LEA00400,Inquiry
+LEA00401,Referral
+LEA00402,Website
+LEA00403,Social Media
+LEA00404,Referral
+LEA00405,Cold Call
+LEA00406,Inquiry
+LEA00407,Email
+LEA00408,Website
+LEA00409,Inquiry
+LEA00410,Cold Call
+LEA00411,Cold Call
+LEA00412,Inquiry
+LEA00413,Cold Call
+LEA00414,Cold Call
+LEA00415,Inquiry
+LEA00416,Social Media
+LEA00417,Social Media
+LEA00418,Inquiry
+LEA00419,Referral
+LEA00420,Email
+LEA00421,Referral
+LEA00422,Social Media
+LEA00423,Cold Call
+LEA00424,Inquiry
+LEA00425,Email
+LEA00426,Email
+LEA00427,Social Media
+LEA00428,Cold Call
+LEA00429,Referral
+LEA00430,Website
+LEA00431,Cold Call
+LEA00432,Referral
+LEA00433,Social Media
+LEA00434,Email
+LEA00435,Inquiry
+LEA00436,Email
+LEA00437,Email
+LEA00438,Website
+LEA00439,Website
+LEA00440,Cold Call
+LEA00441,Inquiry
+LEA00442,Referral
+LEA00443,Referral
+LEA00444,Social Media
+LEA00445,Inquiry
+LEA00446,Email
+LEA00447,Cold Call
+LEA00448,Inquiry
+LEA00449,Referral
+LEA00450,Email
+LEA00451,Social Media
+LEA00452,Inquiry
+LEA00453,Referral
+LEA00454,Referral
+LEA00455,Cold Call
+LEA00456,Website
+LEA00457,Cold Call
+LEA00458,Social Media
+LEA00459,Website
+LEA00460,Email
+LEA00461,Cold Call
+LEA00462,Cold Call
+LEA00463,Referral
+LEA00464,Inquiry
+LEA00465,Inquiry
+LEA00466,Inquiry
+LEA00467,Referral
+LEA00468,Inquiry
+LEA00469,Cold Call
+LEA00470,Website
+LEA00471,Website
+LEA00472,Website
+LEA00473,Website
+LEA00474,Email
+LEA00475,Email
+LEA00476,Cold Call
+LEA00477,Social Media
+LEA00478,Referral
+LEA00479,Inquiry
+LEA00480,Inquiry
+LEA00481,Referral
+LEA00482,Website
+LEA00483,Referral
+LEA00484,Inquiry
+LEA00485,Inquiry
+LEA00486,Referral
+LEA00487,Social Media
+LEA00488,Social Media
+LEA00489,Inquiry
+LEA00490,Website
+LEA00491,Website
+LEA00492,Social Media
+LEA00493,Social Media
+LEA00494,Cold Call
+LEA00495,Website
+LEA00496,Website
+LEA00497,Referral
+LEA00498,Website
+LEA00499,Email
+LEA00500,Website
