@@ -25,12 +25,15 @@ GCV_SQL_Project/
 │   ├── raw/      # original export (preserved, as-submitted)
 │   └── clean/    # re-normalised, FK-valid dataset (generated)
 ├── sql/
-│   ├── schema.sql    # clean 3NF DDL (FK enforced)
-│   └── queries.sql   # corrected business queries
+│   ├── schema.sql            # clean 3NF DDL (FK enforced)
+│   ├── queries.sql           # corrected business queries
+│   └── queries_advanced.sql  # window fns, CTEs, correlated subqueries
 ├── src/
-│   ├── normalize.py  # raw  -> clean  (dedupe lookups, fix FKs, drop bad rows)
-│   ├── build_db.py   # clean -> CRM.db (loads with FK enforcement, verifies)
-│   └── analysis.py   # runs queries + saves charts
+│   ├── normalize.py          # raw  -> clean  (dedupe lookups, fix FKs, drop bad rows)
+│   ├── build_db.py           # clean -> CRM.db (loads with FK enforcement, verifies)
+│   ├── analysis.py           # core queries + charts
+│   ├── analysis_advanced.py  # advanced queries + charts
+│   └── render_erd.py         # regenerate ERD.png
 ├── reports/
 │   ├── REPORT.md     # corrected insights write-up
 │   └── figures/      # generated charts
@@ -56,10 +59,20 @@ sequence). Full DDL in [`sql/schema.sql`](sql/schema.sql); ER diagram in
 ![ERD](ERD.png)
 
 ## Business questions answered
-1. Quarterly sales & revenue by vehicle type
-2. Territory sales leaderboard (revenue by city)
-3. Lead source effectiveness (win rate)
-4. Average lead score by city
-5. Warranty mix
+**Core** ([`sql/queries.sql`](sql/queries.sql)): quarterly sales by vehicle type ·
+territory leaderboard · lead-source win rate · avg lead score by city · warranty mix.
+
+**Advanced** ([`sql/queries_advanced.sql`](sql/queries_advanced.sql)) — window
+functions, CTEs, correlated subqueries, date math:
+1. Sales-rep leaderboard (revenue rank vs commission rank)
+2. Revenue concentration / Pareto (cumulative window)
+3. Sales funnel with stage drop-off
+4. Win rate by discount band (does discounting buy wins?)
+5. Sales-cycle length by lead source
+6. Leads above their city average (correlated subquery)
+7. Payment behaviour / DSO by method
+8. Pipeline aging (stuck deals)
+
+See [`reports/REPORT.md`](reports/REPORT.md) for findings and charts.
 
 *Stack: Python (pandas, matplotlib) + SQLite.*
