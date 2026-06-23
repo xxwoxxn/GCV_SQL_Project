@@ -1,0 +1,5 @@
+payment_method_id,payment_method
+PMT00001,Account payee checks
+PMT00002,Bearer checks
+PMT00003,Counter checks
+PMT00004,Order checks

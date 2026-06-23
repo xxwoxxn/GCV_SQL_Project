@@ -1,0 +1,5 @@
+order_status_id,status_name
+OST00001,Canceled
+OST00002,Delivered
+OST00003,Processing
+OST00004,Revised

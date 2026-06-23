@@ -1,0 +1,46 @@
+================================================================
+RE-NORMALISATION LOG
+================================================================
+
+[1] Lookup dimensions deduplicated:
+  Industry        200 ->  5 rows
+  LeadSource      500 ->  6 rows
+  LeadStatus      500 ->  3 rows
+  LostReason      500 ->  5 rows
+  QuoteStatus     700 ->  3 rows
+  PaymentMethod   700 ->  4 rows
+  PaymentStatus   701 ->  4 rows
+  OrderStatus     700 ->  4 rows
+  Warranty       1000 ->  3 rows
+  VehicleType      50 ->  3 rows
+  FuelType         50 ->  2 rows
+  Role             50 ->  3 rows
+  Stage           500 ->  4 rows
+
+[2] City dimension (merge Billing/Shipping):
+  City dimension: 10 distinct cities
+  BillingAddress: 200 rows linked to City (recovered from BillingCity)
+  ShippingAddress: 700/700 rows recovered via CIT->SCT prefix fix
+
+[3] JobTitle dimension + Customer reassignment:
+  JobTitle 500 -> 9 rows
+  Customer: 49 genuine titles kept, 451 reassigned deterministically
+
+[4] Deduplicating primary keys (keep last, matching INSERT OR REPLACE):
+  Account       -1 dup PK
+  Customer      -1 dup PK
+  Lead          -3 dup PK
+  Opportunity   -4 dup PK
+  Quote         -3 dup PK
+  Orders        -2 dup PK
+  Invoice       -3 dup PK
+  QuoteLineItem -7 dup PK
+
+[5] Null-sentinel cleanup (date columns only):
+  Opportunity: dropped 1 blank-amount row(s)
+  Invoice: dropped 1 blank-date row(s)
+
+[6] Dropping orphan rows (broken entity references):
+
+[7] Writing clean CSVs to data/clean:
+  27 tables, 5846 total rows written

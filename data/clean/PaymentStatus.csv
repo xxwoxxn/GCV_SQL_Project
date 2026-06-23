@@ -1,0 +1,5 @@
+payment_status_id,payment_status
+PST00001,Initiated
+PST00002,Overdue
+PST00003,Paid
+PST00004,Processing

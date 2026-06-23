@@ -1,0 +1,6 @@
+lost_reason_id,lost_reason
+LRS00001,Abandoned
+LRS00002,Became Stale
+LRS00003,Lost to Competitor
+LRS00004,Poor Qualification
+LRS00005,Price too high

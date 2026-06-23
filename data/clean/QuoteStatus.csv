@@ -1,0 +1,4 @@
+quote_status_id,quote_status
+QST00001,Accepted
+QST00002,Rejected
+QST00003,Revised
